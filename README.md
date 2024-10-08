@@ -64,6 +64,7 @@ The Arduino code uses two `74HC595` shift registers to control the two 7-segment
 
 ## License
 
+
 This project is open-source under the MIT License.
 teps to run:
 Set up the hardware as per the wiring diagram.
